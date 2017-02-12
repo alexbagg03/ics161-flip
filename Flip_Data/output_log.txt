@@ -1,0 +1,36 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6700M Series (ID=0x6740)
+    Vendor:   ATI
+    VRAM:     1008 MB
+    Driver:   15.201.1151.1008
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\alexb\Documents\Github\UCI\ics-161\Flip\Builds\Flip_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\alexb\Documents\Github\UCI\ics-161\Flip\Builds\Flip_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\alexb\Documents\Github\UCI\ics-161\Flip\Builds\Flip_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\alexb\Documents\Github\UCI\ics-161\Flip\Builds\Flip_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\alexb\Documents\Github\UCI\ics-161\Flip\Builds\Flip_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\alexb\Documents\Github\UCI\ics-161\Flip\Builds\Flip_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\alexb\Documents\Github\UCI\ics-161\Flip\Builds\Flip_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\alexb\Documents\Github\UCI\ics-161\Flip\Builds\Flip_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\alexb\Documents\Github\UCI\ics-161\Flip\Builds\Flip_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\alexb\Documents\Github\UCI\ics-161\Flip\Builds\Flip_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.131 seconds
+Platform assembly: C:\Users\alexb\Documents\Github\UCI\ics-161\Flip\Builds\Flip_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\alexb\Documents\Github\UCI\ics-161\Flip\Builds\Flip_Data\Managed\System.dll (this message is harmless)
+desktop: 1360x768 60Hz; virtual: 1360x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.996686 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.543242 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 619.
+Total: 0.406610 ms (FindLiveObjects: 0.037973 ms CreateObjectMapping: 0.023039 ms MarkObjects: 0.341331 ms  DeleteObjects: 0.003839 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 13b4 -> priority: 1 
+  Thread -> id: 2e60 -> priority: 1 
